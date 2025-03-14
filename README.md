@@ -2,4 +2,5 @@
 服务器名：风之琉璃  
 
 
-网站：kaze-ruri.simms.work/home.kaze-ruri.space
+网站：kaze-ruri.simms.work
+    home.kaze-ruri.space
